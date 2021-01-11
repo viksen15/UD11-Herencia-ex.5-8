@@ -1,0 +1,13 @@
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.exe
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.deps.json
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.json
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.dev.json
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfo.cs
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\viiksen\Documents\curso NET\UD10\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.genruntimeconfig.cache
